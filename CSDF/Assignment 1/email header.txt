@@ -1,0 +1,9 @@
+From: sender@example.com
+To: receiver@example.com
+Subject: Test Email
+Date: Mon, 06 Oct 2025 10:00:00 +0530
+Message-ID: <12345@example.com>
+Return-Path: <sender@example.com>
+Authentication-Results: spf=pass
+Received: from mail.example.com (192.168.1.10) by smtp.example.org;
+Received: from unknown (203.0.113.5) by mail.example.com;
